@@ -13,6 +13,10 @@ I hate writing assignments so I made this tool that converts text to an image th
 
 <img width="400" alt="Sample image of output" src="sample.jpeg" />
 
+## 🤗 Contributing
+
+Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution guide.
+
 ## 📚 Libraries used
 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Turns DOM into Canvas.

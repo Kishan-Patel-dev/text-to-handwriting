@@ -6,9 +6,8 @@ let paperContentPadding;
 
 function isFontErrory() {
   // SOme fonts have padding top errors, this functions tells you if the current font has that;
-  const currentHandwritingFont = document.body.style.getPropertyValue(
-    '--handwriting-font'
-  );
+  const currentHandwritingFont =
+    document.body.style.getPropertyValue('--handwriting-font');
   return (
     currentHandwritingFont === '' ||
     currentHandwritingFont.includes('Homemade Apple')
