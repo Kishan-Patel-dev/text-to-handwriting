@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Text-to-handwriting title image" src="https://res.cloudinary.com/saurabhdaware/image/upload/w_400/v1586015094/saurabh2019/text-to-handwriting-title.png" /> 
+<img alt="Text-to-handwriting title image" src="text-to-handwriting-title.png" /> 
 <br/><b><a href="https://kishan-patel-dev.github.io/text-to-handwriting/">https://kishan-patel-dev.github.io/text-to-handwriting/</a>
 </b>
 <br/>
